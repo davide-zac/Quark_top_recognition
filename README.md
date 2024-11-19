@@ -2,8 +2,6 @@
 Top Quark Recognition from Particle Events
 This project focuses on the recognition of top quarks from particle events using a Long Short-Term Memory (LSTM) network for classification, and a genetic algorithm for optimizing the hyperparameters of the LSTM model.
 
-## Table of Contents
-
 ## Introduction
 In this project, we aim to develop an efficient model for the recognition of top quarks from complex particle event data. The top quark is the heaviest known elementary particle and plays a crucial role in the Standard Model of particle physics. Accurate identification of top quarks can provide valuable insights into high-energy particle interactions and fundamental physics.
 
